@@ -12,7 +12,6 @@ namespace Victor_P1_AP2.DAL{
         {
             optionsBuilder.UseSqlite(@"Data Source= DATA\Categoria.db");
         }
-
     }
 
 }
